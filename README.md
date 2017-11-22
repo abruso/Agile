@@ -5,6 +5,9 @@ Cos'è la filosofia Agile? Quali sono i sui princìpi?
 
 * *Manifesto*
 * *12 Princìpi*
+* *Scrum*
+* *I 3 Pilastri*
+* *Scrum Framework*
 
 ## Autori
 
